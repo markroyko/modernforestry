@@ -1,0 +1,18 @@
+{
+    "default": {
+        "headline": "Welcome!",
+        "paragraph": "This is the default page content. Enjoy your visit."
+    },
+    "about": {
+        "headline": "About Us",
+        "paragraph": "We are a company dedicated to providing exceptional service."
+    },
+    "contact": {
+        "headline": "Contact Us",
+        "paragraph": "Feel free to reach out to us via email or phone."
+    },
+    "services": {
+        "headline": "Our Services",
+        "paragraph": "We offer a variety of services to meet your needs."
+    }
+}
