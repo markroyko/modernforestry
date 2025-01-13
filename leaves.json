@@ -14,5 +14,9 @@
     "services": {
         "headline": "Our Services",
         "paragraph": "We offer a variety of services to meet your needs."
-    }
+    },
+    "test": {
+        "headline": "Oh, Hi!",
+        "paragraph": "Testing, Testing, Testing!"
+    },
 }
